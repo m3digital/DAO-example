@@ -2,13 +2,13 @@ export class UsersTable {
   public static users: any = [
     {
       id: 1,
-      username: 'Chacasso',
+      username: 'Chicasso',
       password: 'demo',
-      email: 'chacasso@savetheartists.net',
+      email: 'chicasso@savetheartists.net',
       authToken: 'auth-token-8f3ae836da744329a6f93bf20594b5cc',
       refreshToken: 'auth-token-f8c137a2c98743f48b643e71161d90aa',
       roles: [1], // Administrator
-      pic: './assets/media/avatars/chacasso.jpeg',
+      pic: './assets/media/avatars/chicasso.jpg',
       fullname: 'Lewis P',
       firstname: 'Lewis',
       lastname: 'Pearman',

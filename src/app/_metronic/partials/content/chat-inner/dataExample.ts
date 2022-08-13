@@ -94,7 +94,7 @@ const defaultUserInfos: Array<UserInfoModel> = [
   },
   {
     name: 'Lewis Pearman',
-    avatar: 'avatars/chacasso.jpeg',
+    avatar: 'avatars/chicasso.jpeg',
     email: 'chicasso@savetheartists.net',
     position: 'Software Enginer',
     online: false,
